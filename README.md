@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA, Web Development
 - 🌱 I’m currently learning WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on git
-- 📫 How to reach me at jaideepsairaparthi1123@gmail.com
+- 📫 Reach me at jaideepsairaparthi1123@gmail.com
 
 
 <!---
